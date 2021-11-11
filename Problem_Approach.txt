@@ -1,0 +1,57 @@
+Approach
+Create Cloud Cover Lead Features of the following time look aheads:-
+1. 30m
+2. 60m
+3. 90m
+4. 120m
+
+Create Lag Features of the following time look backs:-
+1. 1 hour
+2. 2 hour
+3. 3 hour
+4. 4 hour
+5. 5 hour
+6. 6 hour
+7. 0.5 hour
+8. 1.5 hour
+9. 2.5 hour
+10. 3.5 hour
+11. 4.5 hour
+12. 5.5 hour
+
+Random Forest Regressor to predict Cloud Cover 
+
+
+Feature Engineering
+Created Cloud Cover Lead Features of the following time look aheads:-
+1. 30m
+2. 60m
+3. 90m
+4. 120m
+
+Create Lag Features of the following time look backs:- 
+1. 1 hour
+2. 2 hour
+3. 3 hour
+4. 4 hour
+5. 5 hour
+6. 6 hour
+7. 0.5 hour
+8. 1.5 hour
+9. 2.5 hour
+10. 3.5 hour
+11. 4.5 hour
+12. 5.5 hour
+
+Tools Used
+Jupyter Notebook (Python 3.7)
+
+Attached Files List
+1. Shell_Train.ipynb (Training Jupyter Notebook)
+2. Moving Files.ipynb (Move Test Datasets to a common Folder)
+3. Predict_for_300_Datasets.ipynb (Predict for 300 datasets)
+4. Compile_predictions.ipynb (Compile Predictions)
+
+
+ 
+
